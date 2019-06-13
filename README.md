@@ -1,6 +1,8 @@
-#Awesome go
+# Awesome go
 - [Audio and Music](#jp)
-##Audio and Music
+
+## Audio and Music
+
 <table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Description</th></tr>
 <tr><td>1</td><a href='https://github.com/hajimehoshi/oto'>Oto</a><td>Audio and Music</td><td>378</td><td>25</td><td>Oto - A low-level library to play sound on multiple platforms.</td></tr>
 <tr><td>2</td><a href='https://github.com/gordonklaus/portaudio'>PortAudio</a><td>Audio and Music</td><td>291</td><td>44</td><td>PortAudio - Go bindings for the PortAudio audio I/O library.</td></tr>
@@ -23,4 +25,4 @@
 <tr><td>19</td><a href='https://github.com/dh1tw/gosamplerate'>gosamplerate</a><td>Audio and Music</td><td>8</td><td>0</td><td>gosamplerate - libsamplerate bindings for go.</td></tr>
 </table>
 
-##Test<span id="jp">
+## Test<span id="jp">
